@@ -1,16 +1,26 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-/* CHANGE HEADER COLOUR */
+/* HEADER COLOUR */
 .site-header {
   background-color: #2f5d8a !important;
   border-bottom: none !important;
 }
 
-/* TEXT IN HEADER */
-.site-title,
+/* TITLE (top text) */
+.site-title {
+  color: white !important;
+  font-weight: 600;     /* bold */
+  font-size: 1.35rem;   /* slightly bigger */
+}
+
+/* NAVIGATION LINKS (About / People / Events) */
 .site-nav a {
   color: white !important;
 }
+
+/* OPTIONAL: hover effect (looks nicer) */
+.site-nav a:hover {
+  text-decoration: underline;
+}
+``
