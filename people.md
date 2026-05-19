@@ -2,11 +2,18 @@
 title: People
 ---
 
-
-
+[ photo ] 
 Patrick McGivern 
+Principle Investigator 
 University of Wollongong 
 
+description?
 
+[ photo ] 
 Siqiao Ding  
-University of Sydney
+Associate Research Fellow 
+University of Wollongong
+PhD Candidate
+University of Sydney 
+
+description?
