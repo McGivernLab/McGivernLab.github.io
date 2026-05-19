@@ -1,19 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
   {% include head.html %}
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <style>
+    .site-header {
+      background-color: #2f5d8a !important;
+      border-bottom: none !important;
+    }
+
+    .site-title {
+      color: white !important;
+      font-weight: 600;
+      font-size: 1.35rem;
+    }
+
+    .site-nav a {
+      color: white !important;
+    }
+  </style>
 </head>
-
-<body>
-
-  {% include header.html %}
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      {{ content }}
-    </div>
-  </main>
-
-</body>
-</html>
