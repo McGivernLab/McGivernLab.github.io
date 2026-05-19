@@ -3,14 +3,14 @@ title: People
 ---
 
 [ photo ]   
-Patrick McGivern  
+### Patrick McGivern  
 Principle Investigator  
 University of Wollongong  
   
 description?  
 
 [ photo ]   
-Siqiao Ding    
+### Si Qiao Ding    
 Associate Research Fellow   
 University of Wollongong  
 PhD Candidate  
