@@ -4,10 +4,9 @@ title: People
 
 [ photo ]   
 ### Patrick McGivern  
-Principle Investigator  
+Principal Investigator  
 University of Wollongong  
-  
-description?  
+
 
 [ photo ]   
 ### Si Qiao Ding    
@@ -16,4 +15,4 @@ University of Wollongong
 PhD Candidate  
 University of Sydney   
   
-description?  
+
