@@ -1,0 +1,27 @@
+/* ===== PAGE BACKGROUND ===== */
+body {
+  background-color: #e4edf4 !important;   /* light muted blue */
+}
+
+/* main content box stays white */
+.page-content {
+  background-color: #ffffff;
+  padding: 40px;
+}
+
+/* ===== HEADER ===== */
+.site-header {
+  background-color: #4a6b86 !important;   /* muted dark blue */
+  border-bottom: none;
+}
+
+/* header text */
+.site-title,
+.site-nav a {
+  color: white !important;
+}
+
+/* hover effect (optional but nice) */
+.site-nav a:hover {
+  text-decoration: underline;
+}
