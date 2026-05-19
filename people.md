@@ -1,9 +1,5 @@
 ---
-layout: default
----
-
-
----
+layout: default 
 title: People
 ---
 
