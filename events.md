@@ -7,11 +7,11 @@ date   speaker
 date   speaker  
 
 
-## workshops 
+## Workshops 
 date  theme  
 date  theme  
 
 
-## writing retreats 
+## Writing retreats 
 date  location   
 
