@@ -5,7 +5,7 @@
 
   <style>
     .site-header {
-      background-color: #4f6f8f !important; /* test first */
+      background-color: #4f6f8f !important;
       border-bottom: none !important;
     }
 
@@ -23,9 +23,21 @@
 
 <body>
 
-  {% include header.html %}
+  <header class="site-header">
+    <div class="wrapper">
+      <a class="site-title" href="/">{{ site.title }}</a>
 
-  <main class="page-content" aria-label="Content">
+      <nav class="site-nav">
+        {% for page in site.pages %}
+          {% if page.title %}
+            <a href="{{ page.url }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-content">
     <div class="wrapper">
       {{ content }}
     </div>
@@ -33,3 +45,4 @@
 
 </body>
 </html>
+``
