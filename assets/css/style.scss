@@ -1,0 +1,20 @@
+---
+---
+
+@import "minima";
+
+/* TOP BAR COLOUR */
+.site-header {
+  background-color: #2f5d8a;  /* change this colour */
+}
+
+/* TEXT COLOUR IN HEADER */
+.site-title,
+.site-nav a {
+  color: white !important;
+}
+
+/* REMOVE BORDER UNDER HEADER */
+.site-header {
+  border-bottom: none;
+}
