@@ -1,10 +1,9 @@
----
-layout: default
----
 
 ---
-title: Events 
+layout: default
+title: Events
 ---
+
 
 ## Speaker series 
 date   speaker  
