@@ -1,0 +1,15 @@
+.site-header {
+  background-color: #2f5d8a !important;
+  border-bottom: none !important;
+}
+
+.site-title {
+  color: white !important;
+  font-weight: 600;
+  font-size: 1.35rem;
+}
+
+.site-nav a {
+  color: white !important;
+}
+``
