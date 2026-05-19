@@ -3,18 +3,14 @@
 
 @import "minima";
 
-/* TOP BAR COLOUR */
+/* CHANGE HEADER COLOUR */
 .site-header {
-  background-color: #2f5d8a;  /* change this colour */
+  background-color: #2f5d8a !important;
+  border-bottom: none !important;
 }
 
-/* TEXT COLOUR IN HEADER */
+/* TEXT IN HEADER */
 .site-title,
 .site-nav a {
   color: white !important;
-}
-
-/* REMOVE BORDER UNDER HEADER */
-.site-header {
-  border-bottom: none;
 }
