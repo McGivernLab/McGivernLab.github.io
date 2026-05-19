@@ -1,6 +1,7 @@
-theme: jekyll-theme-minimal
+theme: minima
 
 title: An Integrated Framework for Understanding Non-Neural Intelligence
+description: ""
 
 header_pages:
   - index.md
