@@ -1,10 +1,12 @@
-theme: minima
-
 title: An Integrated Framework for Understanding Non-Neural Intelligence
-description: ""
+
+theme: minima
 
 header_pages:
   - index.md
   - about.md
-  - people.md
   - events.md
+  - people.md
+
+include:
+  - assets/style.css
