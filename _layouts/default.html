@@ -22,27 +22,7 @@
 </head>
 
 <body>
-
-  <header class="site-header">
-    <div class="wrapper">
-      <a class="site-title" href="/">{{ site.title }}</a>
-
-      <nav class="site-nav">
-        {% for page in site.pages %}
-          {% if page.title %}
-            <a href="{{ page.url }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </nav>
-    </div>
-  </header>
-
-  <main class="page-content">
-    <div class="wrapper">
-      {{ content }}
-    </div>
-  </main>
-
+  {{ content }}
 </body>
 </html>
 ``
