@@ -1,27 +1,17 @@
-/* ===== PAGE BACKGROUND ===== */
+/* PAGE BACKGROUND */
 body {
-  background-color: #e4edf4 !important;   /* light muted blue */
+  background-color: #e4edf4;   /* light muted blue */
 }
 
-/* main content box stays white */
-.page-content {
-  background-color: #ffffff;
-  padding: 40px;
-}
-
-/* ===== HEADER ===== */
+/* HEADER */
 .site-header {
-  background-color: #4a6b86 !important;   /* muted dark blue */
+  background-color: #4a6b86 !important;   /* darker muted blue */
   border-bottom: none;
 }
 
-/* header text */
+/* HEADER TEXT */
 .site-title,
 .site-nav a {
   color: white !important;
 }
-
-/* hover effect (optional but nice) */
-.site-nav a:hover {
-  text-decoration: underline;
-}
+``
