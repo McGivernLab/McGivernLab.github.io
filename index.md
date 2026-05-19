@@ -1,1 +1,1 @@
-Home page text 
+Home page text / photo
