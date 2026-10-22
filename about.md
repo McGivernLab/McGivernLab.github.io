@@ -1,6 +1,8 @@
 ---
-title: About
+title: Projects
 ---
+
+An Integrated Framework For Understanding Non-Neural Intelligence
 
 A project team led by Patrick McGivern at the University of Wollongong aims to deepen understanding of the evolution of cognition in non-neural entities by exploring the questions through the  "Major Transitions in the Evolution of Cognition" framework developed by Barron, Halina and Klein (2023). 
 
