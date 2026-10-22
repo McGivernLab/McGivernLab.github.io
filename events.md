@@ -10,10 +10,10 @@ The workshop is organised by Matthew Sims and Patrick McGivern, with support fro
 
 Participants:
 
-Dr Matthew Sims (Macquarie University)
-A/Prof Patrick McGivern (University of Wollongong)
-Prof Kirsty Wan (University of Exeter)
-Prof Wallace Marshall (University of California San Fransisco) (online)
-Prof Margarita Staykova (Durham University)
-Mateusz Kostecki (Nencki Institute of Experimental Biology)
-Prof Ignacio Loy Madera (University of Oviedo)
+Dr Matthew Sims (Macquarie University)  
+A/Prof Patrick McGivern (University of Wollongong)  
+Prof Kirsty Wan (University of Exeter)  
+Prof Wallace Marshall (University of California San Fransisco) (online)  
+Prof Margarita Staykova (Durham University)  
+Mateusz Kostecki (Nencki Institute of Experimental Biology)  
+Prof Ignacio Loy Madera (University of Oviedo)  
