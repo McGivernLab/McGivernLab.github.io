@@ -3,9 +3,9 @@ title: People
 ---
 
 ### Patrick McGivern ###
-Principal Investigator
-Associate Professor of Philosophy
-University of Wollongong
+Principal Investigator  
+Associate Professor of Philosophy  
+University of Wollongong  
  
 ### Si Qiao Ding ###  
 Associate Research Fellow   
