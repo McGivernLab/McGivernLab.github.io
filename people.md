@@ -5,7 +5,6 @@ title: People
 ### Patrick McGivern  
 Principal Investigator  
 Associate Professor of Philosophy
-
 University of Wollongong
 
  
