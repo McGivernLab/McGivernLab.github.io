@@ -2,5 +2,5 @@
 title: Home
 ---
 
-Home page text / photo
+Investigating many forms of minimal cognition.
 
