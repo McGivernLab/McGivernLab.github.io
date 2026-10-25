@@ -29,5 +29,6 @@ To register and receive the relevant event details and Zoom access information, 
 https://docs.google.com/forms/d/e/1FAIpQLScVxOd_kPHklRJZVpA8fLg8QjPijKTirm3NZ7WhrPbcKZs5Vg/viewform?usp=publish-editor
 
 CONTACT
+
 For enquiries, please contact Matthew Sims, at ms3174@cam.ac.uk
 
