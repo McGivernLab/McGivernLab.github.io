@@ -12,14 +12,14 @@ The workshop is organised by Matthew Sims and Patrick McGivern, with support fro
 
 Participants:
 
-Matthew Sims (Macquarie University)
-Patrick McGivern (University of Wollongong)
-Avishek Das (University of Durham)
-Mateusz Kostecki (Heidelberg University)
-Ignacio Loy (University of Oviedo)
-Wallace Marshall (University of California, San Francisco)
-Margreta Staykova (University of Durham)
-Kirsty Wan (University of Exeter)
+- Matthew Sims (Macquarie University)
+- Patrick McGivern (University of Wollongong)
+- Avishek Das (University of Durham)
+- Mateusz Kostecki (Heidelberg University)
+- Ignacio Loy (University of Oviedo)
+- Wallace Marshall (University of California, San Francisco)
+- Margreta Staykova (University of Durham)
+- Kirsty Wan (University of Exeter)
 
 REGISTRATION
 
