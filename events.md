@@ -2,7 +2,7 @@
 title: Events
 ---
 
-## Edinburgh 2026: Investigating Cognition at Microscales: Conceptual and Empirical Challenges
+## Investigating Cognition at Microscales: Conceptual and Empirical Challenges
 
 Date: 6 November 2026 Venue: St Leonard’s Hall, University of Edinburgh / Online via Zoom Website: https://mcgivernlab.github.io/events.html
 
@@ -12,14 +12,14 @@ The workshop is organised by Matthew Sims and Patrick McGivern, with support fro
 
 Participants:
 
-•	Matthew Sims (Macquarie University)
-•	Patrick McGivern (University of Wollongong)
-•	Kirsty Wan (University of Exeter)
-•	Ignacio Loy (University of Oviedo)
-•	Margreta Staykova (University of Durham)
-•	Mateusz Kostecki (Heidelberg University)
-•	Avishek Das (University of Durham)
-•	Wallace Marshall (University of California, San Francisco)
+Matthew Sims (Macquarie University)
+Patrick McGivern (University of Wollongong)
+Avishek Das (University of Durham)
+Mateusz Kostecki (Heidelberg University)
+Ignacio Loy (University of Oviedo)
+Wallace Marshall (University of California, San Francisco)
+Margreta Staykova (University of Durham)
+Kirsty Wan (University of Exeter)
 
 REGISTRATION
 
