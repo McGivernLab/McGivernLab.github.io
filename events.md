@@ -31,11 +31,11 @@ The workshop is organised by Matthew Sims and Patrick McGivern, with support fro
 
 For enquiries, please contact [Matthew Sims](ms3174@cam.ac.uk)
 
-<img height="300" alt="Screenshot 2026-10-25 at 8 44 24 pm" src="https://github.com/user-attachments/assets/5ce27d84-7524-49a0-9b5b-7b1df386e564" />
+<img height="200" alt="Screenshot 2026-10-25 at 8 44 24 pm" src="https://github.com/user-attachments/assets/5ce27d84-7524-49a0-9b5b-7b1df386e564" />
 
-<img height="300" alt="SPA logo" src="https://github.com/user-attachments/assets/27da3e90-d3bc-410a-8bcc-fea7629f9288" />
+<img height="200" alt="SPA logo" src="https://github.com/user-attachments/assets/27da3e90-d3bc-410a-8bcc-fea7629f9288" />
 
-<img height="300" alt="Templeton-logo" src="https://github.com/user-attachments/assets/433d5539-2973-42e2-bc48-08360f528e6e" />
+<img height="200" alt="Templeton-logo" src="https://github.com/user-attachments/assets/433d5539-2973-42e2-bc48-08360f528e6e" />
 
 
 
