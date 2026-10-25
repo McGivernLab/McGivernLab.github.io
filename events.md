@@ -4,8 +4,13 @@ title: Events
 
 ## Investigating Cognition at Microscales: Conceptual and Empirical Challenges
 
-<img align="right" width="30%" alt="20372715141_fdd9a3723f_o" src="https://github.com/user-attachments/assets/2bfc7217-552d-46d7-8c9a-13d2c029143d" />
+<img width="100%" alt="Screenshot 2026-10-25 at 8 44 24 pm" src="https://github.com/user-attachments/assets/5ce27d84-7524-49a0-9b5b-7b1df386e564" />
 
+<img width="50%" alt="SPA logo" src="https://github.com/user-attachments/assets/27da3e90-d3bc-410a-8bcc-fea7629f9288" />
+
+<img width="50%" alt="Templeton-logo" src="https://github.com/user-attachments/assets/433d5539-2973-42e2-bc48-08360f528e6e" />
+
+<img align="right" width="30%" alt="20372715141_fdd9a3723f_o" src="https://github.com/user-attachments/assets/2bfc7217-552d-46d7-8c9a-13d2c029143d" />
 
 Date: 6 November 2026 Venue: St Leonard’s Hall, University of Edinburgh / Online via Zoom 
 
@@ -33,12 +38,3 @@ CONTACT AND SUPPORT
 The workshop is organised by Matthew Sims and Patrick McGivern, with support from the Macquarie Minds and Intelligences Research Centre, the Scots Philosophical Association and the Templeton World Charity Foundation.
 
 For enquiries, please contact [Matthew Sims](ms3174@cam.ac.uk)
-
-<img height="200" alt="Screenshot 2026-10-25 at 8 44 24 pm" src="https://github.com/user-attachments/assets/5ce27d84-7524-49a0-9b5b-7b1df386e564" />
-
-<img height="200" alt="SPA logo" src="https://github.com/user-attachments/assets/27da3e90-d3bc-410a-8bcc-fea7629f9288" />
-
-<img height="200" alt="Templeton-logo" src="https://github.com/user-attachments/assets/433d5539-2973-42e2-bc48-08360f528e6e" />
-
-
-
