@@ -23,8 +23,7 @@ REGISTRATION
 
 Registration is free but required. The registration deadline is 3 November 2026.
 
-To register and receive the relevant event details and Zoom access information, please sign up here: 
-https://docs.google.com/forms/d/e/1FAIpQLScVxOd_kPHklRJZVpA8fLg8QjPijKTirm3NZ7WhrPbcKZs5Vg/viewform?usp=publish-editor
+To register and receive the relevant event details and Zoom access information, please sign up [here] (https://docs.google.com/forms/d/e/1FAIpQLScVxOd_kPHklRJZVpA8fLg8QjPijKTirm3NZ7WhrPbcKZs5Vg/viewform?usp=publish-editor).
 
 CONTACT AND SUPPORT
 
