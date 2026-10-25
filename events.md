@@ -4,7 +4,7 @@ title: Events
 
 ## Investigating Cognition at Microscales: Conceptual and Empirical Challenges
 
-<img align="right" width="896" height="2142" alt="20372715141_fdd9a3723f_o" src="https://github.com/user-attachments/assets/2bfc7217-552d-46d7-8c9a-13d2c029143d" />
+<img align="right" width="40%" alt="20372715141_fdd9a3723f_o" src="https://github.com/user-attachments/assets/2bfc7217-552d-46d7-8c9a-13d2c029143d" />
 
 
 Date: 6 November 2026 Venue: St Leonard’s Hall, University of Edinburgh / Online via Zoom 
