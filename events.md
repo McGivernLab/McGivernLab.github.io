@@ -14,11 +14,11 @@ Participants:
 
 - Matthew Sims (Macquarie University)
 - Patrick McGivern (University of Wollongong)
-- Avishek Das (University of Durham)
+- Avishek Das (Durham University)
 - Mateusz Kostecki (Heidelberg University)
 - Ignacio Loy (University of Oviedo)
 - Wallace Marshall (University of California, San Francisco)
-- Margreta Staykova (University of Durham)
+- Margarita Staykova (Durham University)
 - Kirsty Wan (University of Exeter)
 
 REGISTRATION
