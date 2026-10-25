@@ -32,3 +32,6 @@ CONTACT
 
 For enquiries, please contact Matthew Sims at ms3174@cam.ac.uk
 
+<img width="285" height="102" alt="SPA logo" src="https://github.com/user-attachments/assets/27da3e90-d3bc-410a-8bcc-fea7629f9288" />
+
+
