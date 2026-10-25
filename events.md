@@ -29,7 +29,7 @@ CONTACT AND SUPPORT
 
 The workshop is organised by Matthew Sims and Patrick McGivern, with support from the Macquarie Minds and Intelligences Research Centre, the Scots Philosophical Association and the Templeton World Charity Foundation.
 
-For enquiries, please contact Matthew Sims at ms3174@cam.ac.uk
+For enquiries, please contact [Matthew Sims](ms3174@cam.ac.uk)
 
 <img height="300" alt="Screenshot 2026-10-25 at 8 44 24 pm" src="https://github.com/user-attachments/assets/5ce27d84-7524-49a0-9b5b-7b1df386e564" />
 
