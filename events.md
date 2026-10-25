@@ -30,5 +30,5 @@ https://docs.google.com/forms/d/e/1FAIpQLScVxOd_kPHklRJZVpA8fLg8QjPijKTirm3NZ7Wh
 
 CONTACT
 
-For enquiries, please contact Matthew Sims, at ms3174@cam.ac.uk
+For enquiries, please contact Matthew Sims at ms3174@cam.ac.uk
 
