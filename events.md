@@ -12,7 +12,7 @@ This workshop aims to examine the conceptual and experimental challenges involve
 
 PARTICIPANTS
 
-- Matthew Sims (Macquarie University)
+- Matthew Sims (Macquarie University, University of Cambridge)
 - Patrick McGivern (University of Wollongong)
 - Avishek Das (Durham University)
 - Mateusz Kostecki (Heidelberg University)
