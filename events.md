@@ -43,7 +43,7 @@ SCHEDULE
 
 3:50 - 4:10 Coffee/Tea Break
 
-4:10 - 5:00 Wrap-up discussion
+4:10 - 5:00 Wrap-up discussion / Workshop close
 
 
 REGISTRATION
