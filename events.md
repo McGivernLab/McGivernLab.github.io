@@ -25,25 +25,25 @@ SCHEDULE
 
 9:30 - 9:40 Welcome/Opening remarks
 
-9:40 - 10:30 Kirsty Wan (Exeter), "Sensory processing and decision making in protists"
+9:40 - 10:30 Kirsty Wan, "Sensory processing and decision making in protists"
 
-10:30 - 11:20 Ignacio Loy (Universidad de Oviedo), "Towards a phylogenetic epistemology"
+10:30 - 11:20 Ignacio Loy, "Towards a phylogenetic epistemology"
 
 11:20 - 11:40 Coffee/Tea Break
 
-11:40 - 12:30 Mateusz Kostecki (Nencki Institute), "Are Placozans real?"
+11:40 - 12:30 Mateusz Kostecki, "Are Placozans real?"
 
 12:30 - 2:00 Lunch break
 
-2:00 - 2:30 Margarita Staykova (Durham University), TBA
+2:00 - 2:30 Margarita Staykova, TBA
 
-2:30 - 3:00 Avishek Das (Durham University), "Quantifying cellular information processing and its role in function"
+2:30 - 3:00 Avishek Das, "Quantifying cellular information processing and its role in function"
 
-3:00 - 3:50 Wallace Marshall (University of California San Francisco) "Habituation in Stentor coeruleus" (via Zoom)
+3:00 - 3:50 Wallace Marshall, "Habituation in Stentor coeruleus" (via Zoom)
 
 3:50 - 4:10 Coffee/Tea Break
 
-4:10 - 5:00 Wrap-up discussion / Workshop close
+4:10 - 5:00 Wrap-up discussion
 
 
 REGISTRATION
