@@ -35,7 +35,7 @@ SCHEDULE
 
 12:30 - 2:00 Lunch break
 
-2:00 - 2:30 Margarita Staykova, TBA
+2:00 - 2:30 Margarita Staykova, "Bacteria in soft confinement - the appearance of agency"
 
 2:30 - 3:00 Avishek Das, "Quantifying cellular information processing and its role in function"
 
