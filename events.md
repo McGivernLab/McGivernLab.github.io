@@ -21,6 +21,19 @@ PARTICIPANTS
 - Margarita Staykova (Durham University)
 - Kirsty Wan (University of Exeter)
 
+PHOTOS (in reverse order!)
+
+
+<img width="2048" height="1152" alt="8" src="https://github.com/user-attachments/assets/d127c40e-9230-4f06-9c98-7fdbe9e1077f" />
+<img width="2048" height="1152" alt="7" src="https://github.com/user-attachments/assets/05bede1e-8530-4726-b11d-03f109c5f734" />
+<img width="2048" height="1152" alt="6" src="https://github.com/user-attachments/assets/0566d3d7-a6a6-4767-a650-46eb38818b2e" />
+<img width="2048" height="1152" alt="5" src="https://github.com/user-attachments/assets/0da8e5b3-78e7-45d7-a7a5-e7edc9d5ab6c" />
+<img width="2048" height="1152" alt="4" src="https://github.com/user-attachments/assets/83bf9c74-56d5-45a1-bfcb-941ccce37913" />
+<img width="2048" height="1152" alt="3" src="https://github.com/user-attachments/assets/b5e453ce-13ff-46cf-bd7f-6118f8f67e92" />
+<img width="2048" height="1152" alt="2" src="https://github.com/user-attachments/assets/2b627c2b-698d-472d-89f2-ee4930049352" />
+<img width="1676" height="1252" alt="1" src="https://github.com/user-attachments/assets/c982a513-7a02-4013-afeb-6aa363d891d5" />
+
+
 SCHEDULE
 
 9:30 - 9:40 Welcome/Opening remarks
@@ -57,7 +70,6 @@ CONTACT AND SUPPORT
 The workshop is organised by Matthew Sims and Patrick McGivern, with support from the Macquarie Minds and Intelligences Research Centre, the Scots Philosophical Association and the Templeton World Charity Foundation.
 
 For enquiries, please contact [Matthew Sims](ms3174@cam.ac.uk)
-
 
 <img width="100%" alt="Screenshot 2026-10-25 at 8 44 24 pm" src="https://github.com/user-attachments/assets/5ce27d84-7524-49a0-9b5b-7b1df386e564" />
 
