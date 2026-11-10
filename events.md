@@ -21,17 +21,16 @@ PARTICIPANTS
 - Margarita Staykova (Durham University)
 - Kirsty Wan (University of Exeter)
 
-PHOTOS (in reverse order!)
+PHOTOS
 
-
-<img src="https://github.com/user-attachments/assets/d127c40e-9230-4f06-9c98-7fdbe9e1077f" />
-<img src="https://github.com/user-attachments/assets/05bede1e-8530-4726-b11d-03f109c5f734" />
-<img src="https://github.com/user-attachments/assets/0566d3d7-a6a6-4767-a650-46eb38818b2e" />
-<img src="https://github.com/user-attachments/assets/0da8e5b3-78e7-45d7-a7a5-e7edc9d5ab6c" />
-<img width="2048" height="1152" alt="4" src="https://github.com/user-attachments/assets/83bf9c74-56d5-45a1-bfcb-941ccce37913" />
-<img width="2048" height="1152" alt="3" src="https://github.com/user-attachments/assets/b5e453ce-13ff-46cf-bd7f-6118f8f67e92" />
-<img width="2048" height="1152" alt="2" src="https://github.com/user-attachments/assets/2b627c2b-698d-472d-89f2-ee4930049352" />
-<img width="1676" height="1252" alt="1" src="https://github.com/user-attachments/assets/c982a513-7a02-4013-afeb-6aa363d891d5" />
+<img align="left" width="40%" src="https://github.com/user-attachments/assets/c982a513-7a02-4013-afeb-6aa363d891d5" />
+<img align="right" width="40%" src="https://github.com/user-attachments/assets/2b627c2b-698d-472d-89f2-ee4930049352" />
+<img align="left" width="40%" src="https://github.com/user-attachments/assets/b5e453ce-13ff-46cf-bd7f-6118f8f67e92" />
+<img align="right" width="40%" alt="4" src="https://github.com/user-attachments/assets/83bf9c74-56d5-45a1-bfcb-941ccce37913" />
+<img align="left" width="40%" src="https://github.com/user-attachments/assets/0da8e5b3-78e7-45d7-a7a5-e7edc9d5ab6c" />
+<img align="right" width="40%" src="https://github.com/user-attachments/assets/0566d3d7-a6a6-4767-a650-46eb38818b2e" />
+<img align="left" width="40%" src="https://github.com/user-attachments/assets/05bede1e-8530-4726-b11d-03f109c5f734" />
+<img align="right" width="40%" src="https://github.com/user-attachments/assets/d127c40e-9230-4f06-9c98-7fdbe9e1077f" />
 
 
 SCHEDULE
